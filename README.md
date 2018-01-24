@@ -51,7 +51,8 @@ Tổng hợp những bài viết trên website [Complete JavaScript](https://com
 
   * [JavaScript Tint Color – thay đổi màu sắc bức ảnh](https://completejavascript.com/javascript-tint-color-thay-doi-mau-sac-buc-anh/)
   * [JavaScript Web Worker – chạy JavaScript ở background](https://completejavascript.com/javascript-web-worker-javascript-o-background/)
-
+  * [JavaScript Service Worker cơ bản](https://completejavascript.com/javascript-service-worker-co-ban/)
+  * [Ảnh nine-patch – Scale không vỡ trong JavaScript](https://completejavascript.com/anh-nine-patch-scale-khong-vo-trong-javascript/)
 ## Lập trình cơ bản
 
   * [Những ngôn ngữ lập trình nên học năm 2017](https://completejavascript.com/nhung-ngon-ngu-lap-trinh-nen-hoc-nam-2017/)
