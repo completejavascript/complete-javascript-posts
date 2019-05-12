@@ -142,6 +142,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Một số biểu thức chính quy RegExp hay](https://completejavascript.com/mot-so-bieu-thuc-chinh-quy-regexp-hay/)
 *   [Một vài ứng dụng của Reduce trong JavaScript](https://completejavascript.com/ung-dung-cua-reduce-javascript/)
 *   [Một số thủ thuật sử dụng console hiệu quả](https://completejavascript.com/thu-thuat-su-dung-console-hieu-qua/)
+*   [Xử lý bất đồng bộ song song hay tuần tự?](https://completejavascript.com/xu-ly-bat-dong-bo-song-song-tuan-tu/)
 
 ### Thủ thuật máy tính
 
