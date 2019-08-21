@@ -111,6 +111,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Xoắn não với phỏng vấn JavaScript 5](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-5/)
 *   [Xoắn não với phỏng vấn JavaScript 6](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-6/)
 *   [Xoắn não với phỏng vấn JavaScript 7](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-7/)
+*   [Xoắn não với phỏng vấn JavaScript 8](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-8/)
 
 ### Thủ thuật JavaScript
 
@@ -137,8 +138,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Triển khai Queue trong JavaScript](https://completejavascript.com/trien-khai-queue-trong-javascript/)
 *   [Remove item in Array JavaScript](https://completejavascript.com/remove-item-in-array-javascript/)
 *   [Convert IPv4 sang Decimal và ngược lại](https://completejavascript.com/convert-ipv4-sang-decimal-va-nguoc-lai/)
-*   [Kết thúc sớm Promise chaining trong JavaScript]
-(https://completejavascript.com/ket-thuc-som-promise-chaining-trong-javascript/)
+*   [Kết thúc sớm Promise chaining trong JavaScript](https://completejavascript.com/ket-thuc-som-promise-chaining-trong-javascript/)
 *   [Một số biểu thức chính quy RegExp hay](https://completejavascript.com/mot-so-bieu-thuc-chinh-quy-regexp-hay/)
 *   [Một vài ứng dụng của Reduce trong JavaScript](https://completejavascript.com/ung-dung-cua-reduce-javascript/)
 *   [Một số thủ thuật sử dụng console hiệu quả](https://completejavascript.com/thu-thuat-su-dung-console-hieu-qua/)
