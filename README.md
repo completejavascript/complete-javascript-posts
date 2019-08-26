@@ -112,6 +112,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Xoắn não với phỏng vấn JavaScript 6](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-6/)
 *   [Xoắn não với phỏng vấn JavaScript 7](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-7/)
 *   [Xoắn não với phỏng vấn JavaScript 8](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-8/)
+*   [Xoắn não với phỏng vấn JavaScript 9](https://completejavascript.com/xoan-nao-voi-phong-van-javascript-9/)
 
 ### Thủ thuật JavaScript
 
