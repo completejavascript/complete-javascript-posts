@@ -145,6 +145,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Một số thủ thuật sử dụng console hiệu quả](https://completejavascript.com/thu-thuat-su-dung-console-hieu-qua/)
 *   [Xử lý bất đồng bộ song song hay tuần tự?](https://completejavascript.com/xu-ly-bat-dong-bo-song-song-tuan-tu/)
 *   [Tạo số ngẫu nhiên trong JavaScript](https://completejavascript.com/tao-so-ngau-nhien-trong-javascript)
+*   [Sắp xếp Tiếng Việt trong JavaScript](https://completejavascript.com/sap-xep-tieng-viet-javascript)
 
 ### Thủ thuật máy tính
 
