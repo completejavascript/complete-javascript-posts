@@ -146,6 +146,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Xử lý bất đồng bộ song song hay tuần tự?](https://completejavascript.com/xu-ly-bat-dong-bo-song-song-tuan-tu/)
 *   [Tạo số ngẫu nhiên trong JavaScript](https://completejavascript.com/tao-so-ngau-nhien-trong-javascript)
 *   [Sắp xếp Tiếng Việt trong JavaScript](https://completejavascript.com/sap-xep-tieng-viet-javascript)
+*   [Cách kiểm tra empty object trong JavaScript](https://completejavascript.com/kiem-tra-empty-object-trong-javascript)
 
 ### Thủ thuật máy tính
 
