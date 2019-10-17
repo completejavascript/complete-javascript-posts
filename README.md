@@ -58,6 +58,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Xử lý bất đồng bộ với callback, promise, async/await](https://completejavascript.com/xu-ly-bat-dong-bo-callback-promise-async-await/)
 *   [Sử dụng ES Modules trên trình duyệt](https://completejavascript.com/su-dung-es-modules-tren-trinh-duyet/)
 *   [Tìm hiểu về Symbol trong JavaScript](https://completejavascript.com/tim-hieu-ve-symbol-trong-javascript/)
+*   [Tagged template ES6 là gì?](https://completejavascript.com/tagged-template-es6-la-gi)
 
 ### JavaScript Design Pattern
 
