@@ -148,6 +148,7 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Tạo số ngẫu nhiên trong JavaScript](https://completejavascript.com/tao-so-ngau-nhien-trong-javascript)
 *   [Sắp xếp Tiếng Việt trong JavaScript](https://completejavascript.com/sap-xep-tieng-viet-javascript)
 *   [Cách kiểm tra empty object trong JavaScript](https://completejavascript.com/kiem-tra-empty-object-trong-javascript)
+*   [Làm sao để bắt buộc truyền tham số vào hàm?](https://completejavascript.com/lam-sao-bat-buoc-truyen-tham-so-vao-ham)
 
 ### Thủ thuật máy tính
 
