@@ -186,3 +186,4 @@ Dưới đây là sơ đồ trang web của mình dạng HTML, bao gồm: danh s
 *   [Học React qua ví dụ #10: Sticky Notes](https://completejavascript.com/hoc-react-qua-vi-du-10-sticky-notes/)
 *   [Quản lý state trong React với React Context API](https://completejavascript.com/quan-ly-state-react-voi-react-context-api/)
 *   [Tại sao React yêu cầu render single DOM element?](https://completejavascript.com/react-render-single-dom-element/)
+*   [Sử dụng SASS với create-react-app](https://completejavascript.com/su-dung-sass-voi-create-react-app)
